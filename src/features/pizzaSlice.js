@@ -5,7 +5,7 @@ const initialState = {
 };
 
 const pizzaSlice = createSlice({
-  name: "pizza",
+  name: "pizza", // just for your understanding
   initialState,
   reducers: {
     buyPizza: (state) => {

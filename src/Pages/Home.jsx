@@ -27,3 +27,7 @@ const Home = () => {
 };
 
 export default Home;
+
+/**
+ * useSelector -- used to retrieve specific parts of the state from the Redux store
+ */
